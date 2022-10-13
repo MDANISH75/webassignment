@@ -1,0 +1,23 @@
+.t1{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+}
+body{
+    background-color: #83b1b1;;
+  
+}
+.abc {
+    margin-left: 175px;
+    font-size: medium;
+    font-weight: bold;
+    font-size:30px;
+    
+    
+}
+a:hover {
+    background-color: #b6b7b8;
+   color: rgb(163, 9, 58);
+    
+}
+
+

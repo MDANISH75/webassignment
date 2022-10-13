@@ -1,0 +1,29 @@
+body{
+    background-color: #83b1b1;
+}
+/* img{
+width: 964px;
+height:591px;
+margin: auto;
+
+padding: 1px 10px;
+} */
+
+a:link,a:visited{
+    margin-right: 100px;
+     color:rgb(88, 69, 43);
+     padding: 10px 20px;
+     text-align:center;
+     text-decoration: dotted;
+     display: inline-block; 
+                     
+   } 
+a:hover, a:active{
+     background-color:  #7e6c76;
+ }
+ .t2{
+    font-family:'Times New Roman', Times, serif;
+    text-align: right;
+   /* padding: 4px; */
+    /* font-size: em; */  
+}

@@ -1,0 +1,28 @@
+#m1{
+    /* margin-left: 50px;
+    margin-right: -5000px; */
+    justify-content: center;
+    width: 970px;
+    height: 400px;
+}
+#m2{
+   
+        font-family: Copperplate, Papyrus, fantasy;
+        text-align: center;
+   
+}
+#m3{
+    justify-content: center;
+    margin-left:250px;
+    width: 500px;
+    height: 100px;
+    
+}
+#m4{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+    height: 00px;
+}
+body{
+    background-color: #83b1b1;
+}

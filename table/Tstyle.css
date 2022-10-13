@@ -1,0 +1,33 @@
+
+table, th, td,tr {
+    border:3px solid black;
+}
+
+th{
+     background-color: rgb(102, 140, 134);
+}
+
+.t{
+    font-family: Bradley Hand ,cursive;
+    text-align: center;
+}
+
+.t1{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+}
+.p{
+    color:darkgrey ;
+    font-size:larger;
+}
+body{
+    background-color: #83b1b1;
+
+}
+
+    .c{
+        justify-content: center;
+        margin-left: 300px;
+        width: 350px;
+        margin-top: 50px;
+    }

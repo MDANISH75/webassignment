@@ -1,0 +1,52 @@
+.a{
+    margin-left: 10px ;
+    margin-top: 1000px;
+    width: 500px;
+    height: 300px;
+    
+   
+}
+
+/* table */
+
+table, th, td,tr {
+    border:3px solid black;
+}
+
+th{
+     background-color: beige;
+}
+
+.t{
+    font-family: Bradley Hand ,cursive;
+    text-align: center;
+}
+
+.t1{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+}
+
+
+.t2{
+    font-family:'Times New Roman', Times, serif;
+    text-align: right;
+   /* padding: 4px; */
+    /* font-size: em; */  
+}
+
+.p{
+    color:darkgrey ;
+    font-size:larger;
+}
+
+#f3{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(22, 33, 33);
+    text-decoration: rgb(65, 175, 175);
+   
+}
+
+/* table */
